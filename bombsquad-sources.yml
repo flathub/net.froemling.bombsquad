@@ -10,9 +10,9 @@
 # - The precompiled binaries and resources for the release
 - type: git
   url: https://github.com/efroemling/ballistica.git
-  tag: v1.8.8
-  commit: c2e261cf0790715bbd1be1fe09193c131cf76dff
+  tag: v1.8.10
+  commit: 60b6a16d43e596aaeed1348b885f2dffde67cf76
 - type: archive
-  url: https://github.com/efroemling/ballistica/releases/download/v1.8.8/bombsquad_prebuilt_inputs.tar.xz
-  sha256: 770f9176de0ebc35ceb625d4f9d613c67799c38dab0e1a6715333beacee6f13a
+  url: https://github.com/efroemling/ballistica/releases/download/v1.8.10/bombsquad_prebuilt_inputs.tar.xz
+  sha256: dbd8114a099a826a3ffe5024a67b97daf5dfeef0079bdba4a5f1bff9f5e1dcac
   strip-components: 0
